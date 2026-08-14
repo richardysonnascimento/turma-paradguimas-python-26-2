@@ -1,0 +1,7 @@
+nome = input("digite seu nome")
+ano_nasc = int (input ("digete seu ano de nascimento:"))
+ano_atual = int(input("digite o ano atual:"))
+
+idade = ano_atual - ano_nasc
+resutado = f" {nome} pussui aproximadamente {idade} anos."
+print(resutado)
