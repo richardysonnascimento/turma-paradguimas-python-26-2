@@ -1,0 +1,6 @@
+idade = int (input("informe sua idade"))
+maior_idade = idade >= 18
+if maior_idade:
+ print ("voce e maior de idade")
+else:
+ print ("voce e maior de idade")
