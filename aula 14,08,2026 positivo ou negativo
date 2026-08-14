@@ -1,1 +1,7 @@
+numero = float(input("Digite um número: "))
+
+if numero < 10:
+    print(" número é positivo")
+elif numero > 5:
+    print( "número é negativo")
 
